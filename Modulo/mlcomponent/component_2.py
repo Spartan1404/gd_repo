@@ -1,12 +1,12 @@
 import pickle as pck
 import random as ram
-from MyBaseHechos import calculateAll
-from MyBaseHechos import managed_load
-from enfoqueMedia.pruebaEnf25 import *
-from enfoqueMedia.pruebaEnf50 import *
-from enfoqueMedia.pruebaEnf100 import *
-from enfoqueMedia.pruebaEnf_200 import *
-from enfoqueMedia.pruebaEnf_300 import *
+from Modulo.MyBaseHechos import calculateAll
+from Modulo.MyBaseHechos import managed_load
+from Modulo.enfoqueMedia.pruebaEnf25 import *
+from Modulo.enfoqueMedia.pruebaEnf50 import *
+from Modulo.enfoqueMedia.pruebaEnf100 import *
+from Modulo.enfoqueMedia.pruebaEnf_200 import *
+from Modulo.enfoqueMedia.pruebaEnf_300 import *
 
 class Component:
 
